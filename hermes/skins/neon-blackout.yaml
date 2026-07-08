@@ -1,0 +1,129 @@
+# Neon Blackout - a cyberpunk/synthwave skin
+name: neon-blackout
+description: "Cyberpunk synthwave - magenta and cyan on near-black."
+
+colors:
+  banner_border: "#00fff0"
+  banner_title: "#ff00aa"
+  banner_accent: "#00aaff"
+  banner_dim: "#8e88ab"
+  banner_text: "#cfc8ee"
+  ui_accent: "#ff00aa"
+  ui_label: "#00aaff"
+  ui_ok: "#39ff14"
+  ui_error: "#ff3864"
+  ui_warn: "#fcee09"
+  prompt: "#00aaff"
+  input_rule: "#00fff0"
+  response_border: "#00fff0"
+  status_bar_bg: "#050507"
+  status_bar_text: "#cfc8ee"
+  status_bar_strong: "#ff00aa"
+  status_bar_dim: "#8e88ab"
+  status_bar_good: "#39ff14"
+  status_bar_warn: "#fcee09"
+  status_bar_bad: "#ff3864"
+  status_bar_critical: "#ff3864"
+  session_label: "#00aaff"
+  session_border: "#00fff0"
+  # selection_bg: "#12131c"
+  # completion_menu_bg: "#12131c"
+  # completion_menu_current_bg: "#12131c"
+  # completion_menu_meta_bg: "#12131c"
+  # completion_menu_meta_current_bg: "#12131c"
+  voice_status_bg: "#ff8fd8"
+
+spinner:
+  waiting_faces:
+    - "(⚡︎)"
+    - "(⚙)"
+    - "(⦿)"
+    - "(⊞)"
+    - "(◈)"
+  thinking_faces:
+    - "(⌁)"
+    - "(◉)"
+    - "(⊡)"
+    - "(⚡︎)"
+    - "(⦿)"
+  thinking_verbs:
+    - "breaching"
+    - "scanning"
+    - "decrypting"
+    - "compiling"
+    - "routing"
+    - "booting"
+    - "synthesizing"
+    - "indexing"
+  wings:
+    - ["⟪◈", "◈⟫"]
+    - ["⟪❖", "❖⟫"]
+    - ["⟪◆", "◆⟫"]
+
+branding:
+  agent_name: "⌬ NEON AGENT 001⌬"
+  welcome: "[#ff00aa]⏼[/] [#cfc8ee]NEON AGENT ONLINE_[/] [#8e88ab]Type /help for commands.[/]"
+  goodbye: "[#ff00aa]⏻[/] [#cfc8ee]NEON AGENT POWERING OFF...[/]"
+  response_label: " ⌬  NEON AGENT ⌬ "
+  prompt_symbol: "⌬ | "
+  help_header: "(») AVAILABLE COMMANDS"
+
+tool_prefix: "┊"
+
+tool_emojis:
+  terminal: "»"
+  web_search: "⌕"
+  web_extract: "↓"
+  read_file: "≡"
+  write_file: "✎"
+  patch: "⊞"
+  search_files: "◈"
+  execute_code: "▹"
+  browser_navigate: "→"
+  browser_click: "●"
+  browser_snapshot: "◉"
+  browser_type: "␣"
+  browser_scroll: "⇅"
+  browser_vision: "◎"
+  browser_console: "⎚"
+  browser_get_images: "▣"
+  browser_press: "⏎"
+  delegate_task: "⇉"
+  memory: "◆"
+  clarify: "?"
+  cronjob: "⧖"
+  process: "⊚"
+  todo: "☐"
+  skill_view: "✧"
+  skills_list: "◇"
+  skill_manage: "⊕"
+  session_search: "↻"
+  project_create: "+"
+  project_switch: "⇄"
+  project_list: "☰"
+  text_to_speech: "♪"
+  vision_analyze: "⊙"
+  image_generate: "✦"
+  computer_use: "⌘"
+
+banner_logo: |
+  [#00fff0]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[/]
+  [#00fff0]░░█▀█░█▀▀░█▀█░█▀█░░░█▀▀▄░█░░░█▀█░█▀▀░█░█░█▀█░█░█░▀█▀░░[/]
+  [#00fff0]░░█░█░█▀▀░█░█░█░█░░░█▀▀▄░█░░░█▀█░█░░░█▀▄░█░█░█░█░░█░░░[/]
+  [#00fff0]░░▀░▀░▀▀▀░▀▀▀░▀░▀░░░▀▀▀░░▀▀▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░░░[/]
+  [#00fff0]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[/]
+
+banner_hero: |1
+ [#00fff0]════════════════════════════════════════════════[/]
+
+ [#00fff0]  [ NEON NETWORK INIT... ]                           [/]  
+ [#00fff0]                                              [/]  
+ [#00fff0]  >> rerouting via proxy chain....      [OK]  [/]  
+ [#00fff0]  >> stripping metadata...........      [OK]  [/]  
+ [#00fff0]  >> establishing uplink..........  [ACTIVE]  [/]  
+ [#00fff0]                                              [/]  
+ [#00fff0]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓     100%        [/]  
+ [#00fff0]                                              [/]  
+ [#00fff0]  [ AGENT ONLINE_ ]                           [/]  
+
+ [#00fff0]════════════════════════════════════════════════[/]

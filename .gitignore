@@ -1,0 +1,33 @@
+# ── OS files ──────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ── Editor / IDE ──────────────────────────────────
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Environment ───────────────────────────────────
+.env
+.env.*
+.venv/
+
+# ── Build artifacts ───────────────────────────────
+node_modules/
+dist/
+
+# ── Files and folders starting with underscore ───
+_*
+
+# ── Dotfiles — ignore everything except .gitignore ─
+.*
+!.gitignore
