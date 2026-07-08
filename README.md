@@ -2,6 +2,8 @@
 
 A cyberpunk/synthwave design system on a near-black void. High-contrast neon, one spacing scale, one set of radii. Colors are mapped to the Intersex-Inclusive Progress Pride flag — every hue carries meaning.
 
+*Night city. A terminal in a hacker's basement. The void swallows everything — neon is the only light source.*
+
 **License:** CC0 — free to use in any project.
 
 ---
