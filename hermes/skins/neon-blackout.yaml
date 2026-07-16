@@ -114,16 +114,16 @@ banner_logo: |
   [#00fff0]░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[/]
 
 banner_hero: |1
- [#00fff0]════════════════════════════════════════════════[/]
+ [#00fff0]═════════════════════════════════════════[/]
 
- [#00fff0]  [ NEON NETWORK INIT... ]                           [/]  
- [#00fff0]                                              [/]  
- [#00fff0]  >> rerouting via proxy chain....      [OK]  [/]  
- [#00fff0]  >> stripping metadata...........      [OK]  [/]  
- [#00fff0]  >> establishing uplink..........  [ACTIVE]  [/]  
- [#00fff0]                                              [/]  
- [#00fff0]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓     100%        [/]  
- [#00fff0]                                              [/]  
- [#00fff0]  [ AGENT ONLINE_ ]                           [/]  
+ [#00fff0]  [ NEON NETWORK INIT... ][/]             
 
- [#00fff0]════════════════════════════════════════════════[/]
+ [#00fff0]  >> rerouting via proxy.....[OK][/]      
+ [#00fff0]  >> stripping metadata......[OK][/]      
+ [#00fff0]  >> establishing uplink.....[ACTIVE][/]  
+
+ [#00fff0]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%[/]      
+
+ [#00fff0]  [ AGENT ONLINE_ ][/]                    
+
+ [#00fff0]═════════════════════════════════════════[/]
