@@ -1,3 +1,5 @@
+![Neon Blackout hero](hero.png)
+
 # Neon Blackout
 
 A cyberpunk/synthwave design system on a near-black void. High-contrast neon, one spacing scale, one set of radii. Colors are mapped to the Intersex-Inclusive Progress Pride flag — every hue carries meaning.
